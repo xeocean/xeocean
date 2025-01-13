@@ -17,5 +17,3 @@ I’m a budding **Backend Developer** and **Data Science Enthusiast** passionate
 **badges**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeocean&layout=compact)
-
-![](https://komarev.com/ghpvc/?username=xeocean&color=green)
